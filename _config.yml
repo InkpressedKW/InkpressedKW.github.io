@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://InkpressedKW.github.io
+title: InkpressedKW
+tagline: Do It.Then Write It.
+description: A plot of a boring author :)
+paginate: 5
